@@ -1,0 +1,99 @@
+Application name:7-Zip 19.00 (x64) 	 Version:19.00 
+Application name:AMD Software 	 Version:20.8.1 
+Application name:Android Studio 	 Version:4.0 
+Application name:Cisco Packet Tracer 7.3.1 64Bit 	 Version:None 
+Application name:EPSON L3110 Series Printer Uninstall 	 Version:None 
+Application name:Git version 2.29.2.3 	 Version:2.29.2.3 
+Application name:ImageMagick 7.0.10-28 Q16-HDRI (64-bit) (2020-08-16) 	 Version:7.0.10 
+Application name:Microsoft SQL Server 2017 (64-bit) 	 Version:None 
+Application name:Mozilla Firefox 71.0 (x64 en-US) 	 Version:71.0 
+Application name:Mozilla Maintenance Service 	 Version:70.0.1 
+Application name:Riot Vanguard 	 Version:None 
+Application name:Aim Lab 	 Version:None 
+Application name:Counter-Strike: Global Offensive 	 Version:None 
+Application name:Star Trek Online 	 Version:None 
+Application name:Tesseract-OCR - open source OCR engine 	 Version:v5.0.0-alpha.20200328 
+Application name:VLC media player 	 Version:3.0.11 
+Application name:XAMPP 	 Version:7.4.1-0 
+Application name:Java(TM) SE Development Kit 13.0.1 (64-bit) 	 Version:13.0.1.0 
+Application name:Microsoft SQL Server 2017 Setup (English) 	 Version:14.0.2027.2 
+Application name:Core Temp 1.16 	 Version:1.16 
+Application name:Node.js 	 Version:12.18.0 
+Application name:Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 	 Version:10.0.40219 
+Application name:Microsoft VSS Writer for SQL Server 2017 	 Version:14.0.1000.169 
+Application name:Java 8 Update 281 (64-bit) 	 Version:8.0.2810.9 
+Application name:Malwarebytes version 4.2.1.89 	 Version:4.2.1.89 
+Application name:Microsoft ODBC Driver 13 for SQL Server 	 Version:14.0.2027.2 
+Application name:Java SE Development Kit 8 Update 231 (64-bit) 	 Version:8.0.2310.11 
+Application name:Active Directory Authentication Library for SQL Server 	 Version:15.0.1300.359 
+Application name:Microsoft Visual Studio Installer 	 Version:2.6.2035.522 
+Application name:Microsoft ODBC Driver 17 for SQL Server 	 Version:17.4.1.1 
+Application name:AdoptOpenJDK JDK with Hotspot 8.0.252.09 (x64) 	 Version:8.0.252.09 
+Application name:Intel(R) Computing Improvement Program 	 Version:2.4.06522 
+Application name:Microsoft System CLR Types for SQL Server 2019 CTP2.2 	 Version:15.0.1200.24 
+Application name:Oracle VM VirtualBox 6.0.14 	 Version:6.0.14 
+Application name:Microsoft SQL Server 2016 LocalDB  	 Version:13.1.4001.0 
+Application name:Microsoft OLE DB Driver for SQL Server 	 Version:18.2.3.0 
+Application name:Microsoft SQL Server 2012 Native Client  	 Version:11.4.7462.6 
+Application name:DB Browser for SQLite 	 Version:3.11.2 
+Application name:Java(TM) SE Development Kit 14.0.1 (64-bit) 	 Version:14.0.1.0 
+Application name:Microsoft SQL Server 2017 T-SQL Language Service  	 Version:14.0.1000.169 
+Application name:Visual Studio Build Tools 2017 	 Version:15.9.28307.1177 
+Application name:Visual Studio Community 2019 	 Version:16.4.29613.14 
+Application name:MathType 7 	 Version:7.4.4 
+Application name:emu8086 microprocessor emulator 	 Version:None 
+Application name:Epson Scan 2 	 Version:None 
+Application name:Google Chrome 	 Version:88.0.4324.150 
+Application name:IntelliJ IDEA Community Edition 2019.2.3 	 Version:192.6817.14 
+Application name:Microsoft Edge 	 Version:88.0.705.63 
+Application name:Microsoft Edge Update 	 Version:1.3.139.71 
+Application name:Microsoft Help Viewer 2.3 	 Version:2.3.28107 
+Application name:Gameloop 	 Version:1.0.0.1 
+Application name:Notepad++ (32-bit x86) 	 Version:7.8.2 
+Application name:Npcap 	 Version:1.00 
+Application name:OBS Studio 	 Version:26.1.1 
+Application name:Origin 	 Version:10.5.59.36848 
+Application name:Popcorn Time 	 Version:6.1.0.0 
+Application name:JetBrains PyCharm Community Edition 2019.3 	 Version:193.5233.109 
+Application name:Rockstar Games Launcher 	 Version:1.0.33.319 
+Application name:Rockstar Games Social Club 	 Version:2.0.7.5 
+Application name:Steam 	 Version:2.10.91.91 
+Application name:Tasm 1.4 Windows 7 - Windows 8 64 bit By Techapple.net 	 Version:00.01.00.04 
+Application name:TeamViewer 	 Version:15.12.4 
+Application name:Tesseract-OCR - open source OCR engine 	 Version:4.0.0dev-20170510 
+Application name:Wireshark 3.4.0 64-bit 	 Version:3.4.0 
+Application name:Intel(R) Wireless Bluetooth(R) 	 Version:21.110.0.3 
+Application name:Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 	 Version:12.0.30501.0 
+Application name:Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112 	 Version:14.27.29112.0 
+Application name:Turbo C++ 3.2 	 Version:3.2.2.0 
+Application name:Epson Printer Connection Checker 	 Version:3.2.0.0 
+Application name:Epic Games Launcher 	 Version:1.1.267.0 
+Application name:Windows SDK AddOn 	 Version:10.1.0.0 
+Application name:Java 8 Update 281 	 Version:8.0.2810.9 
+Application name:Epson Software Updater 	 Version:4.6.1 
+Application name:Python Launcher 	 Version:3.8.7072.0 
+Application name:Epson Event Manager 	 Version:3.11.0030 
+Application name:EPSON Scan OCR Component 	 Version:3.00.04 
+Application name:Realtek Card Reader 	 Version:10.0.14393.31228 
+Application name:Windows Software Development Kit - Windows 10.0.17763.132 	 Version:10.1.17763.132 
+Application name:Microsoft Visual C++ 2005 Redistributable 	 Version:8.0.61001 
+Application name:Microsoft System CLR Types for SQL Server 2019 CTP2.2 	 Version:15.0.1200.24 
+Application name:Epson ScanSmart 	 Version:3.4.1 
+Application name:Microsoft SQL Server Management Studio - 18.4 	 Version:15.0.18206.0 
+Application name:Microsoft Visual C++ 2005 Redistributable 	 Version:8.0.59193 
+Application name:EPSON Manuals 	 Version:1.57.0.0 
+Application name:Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720 	 Version:14.26.28720.3 
+Application name:Web Companion 	 Version:4.8.2078.3950 
+Application name:Adobe Acrobat Reader DC 	 Version:21.001.20135 
+Application name:MySQL Installer for Windows - Community 	 Version:1.4.32.0 
+Application name:Intel® Driver & Support Assistant 	 Version:21.1.5.2 
+Application name:Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 	 Version:11.0.61030.0 
+Application name:Browser for SQL Server 2017 	 Version:14.0.1000.169 
+Application name:Windows 10 Update Assistant 	 Version:1.4.9200.22899 
+Application name:Minecraft Launcher 	 Version:1.0.0.0 
+Application name:Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 	 Version:10.0.40219 
+Application name:Realtek High Definition Audio Driver 	 Version:6.0.8895.1 
+Application name:Microsoft Visual Studio Tools for Applications 2017 	 Version:15.0.27520 
+Application name:EPSON Scan PDF EXtensions 	 Version:1.03.02 
+SerialNumber  B2BJY32 
+ DESKTOP-28B2OQ5
